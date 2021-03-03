@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WWLayout",
+        "repositoryURL": "https://github.com/ww-tech/wwlayout.git",
+        "state": {
+          "branch": null,
+          "revision": "73be02c10d3cd6a679661aeca00031e5e8d4e8a5",
+          "version": "0.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
